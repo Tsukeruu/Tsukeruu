@@ -20,7 +20,7 @@
   
 - 👍 **先延ばしにすることが私の得意な唯一のことです**
 
-- ⚠️ **Dont and stop dming me regarding as to why there are unnecessary/complex code segments in every repo, kthxbye**
+- ⚠️ **Dont and stop dming me regarding as to why there are unnecessary/complex code segments in every repo**
 
 - **📫 Discordで連絡してください: tsukeru__**
 
